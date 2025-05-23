@@ -38,8 +38,7 @@ The **AWS Certified Cloud Practitioner** exam is designed for individuals who ha
 ## 🔗 Useful Links
 
 - [Official AWS Certification Page](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-- [Credly Badge (if applicable)](#)
-- [LinkedIn Post (if any)](#)
+- [Credly Badge ](#)
 
 ---
 
