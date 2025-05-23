@@ -10,7 +10,6 @@ This repository documents my journey and achievement of the **AWS Certified Clou
 - **Certification Name**: AWS Certified Cloud Practitioner  
 - **Issued By**: Amazon Web Services (AWS)  
 - **Certification Date**: [Insert Date]  
-- **Credential ID**: [Optional]  
 - **Verification Link**: [Click here to verify](#) *(replace with your actual badge/verification URL)*
 
 ---
