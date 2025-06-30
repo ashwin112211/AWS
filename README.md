@@ -9,8 +9,8 @@ This repository documents my journey and achievement of the **AWS Certified Clou
 
 - **Certification Name**: AWS Certified Cloud Practitioner  
 - **Issued By**: Amazon Web Services (AWS)  
-- **Certification Date**: [Insert Date]  
-- **Verification Link**: [Click here to verify](#) *(replace with your actual badge/verification URL)*
+- **Certification Date**: May 2025 
+- **Verification Link**: https://www.credly.com/badges/af55c296-a8fa-4e81-9047-43406ef9886a/public_url
 
 ---
 
@@ -29,8 +29,7 @@ The **AWS Certified Cloud Practitioner** exam is designed for individuals who ha
 
 ## 🏆 My Certification Badge
 
-![AWS Certified Cloud Practitioner Badge](https://images.credly.com/size/220x220/images/[badge-image-id].png)  
-*(Replace with the actual badge image URL from Credly)*
+https://www.credly.com/badges/af55c296-a8fa-4e81-9047-43406ef9886a/public_url 
 
 ---
 
