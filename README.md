@@ -10,7 +10,6 @@ This repository documents my journey and achievement of the **AWS Certified Clou
 - **Certification Name**: AWS Certified Cloud Practitioner  
 - **Issued By**: Amazon Web Services (AWS)  
 - **Certification Date**: May 2025 
-- **Verification Link**: https://www.credly.com/badges/af55c296-a8fa-4e81-9047-43406ef9886a/public_url
 
 ---
 
